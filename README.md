@@ -1,6 +1,9 @@
 # unsupervised-graph-embeddings
 Code to test the semantic content of unsupervised graph embeddings. 
 
+- `get_features.py ` contains functions to extract features from graph using networkx ; 
+- `eval.py ` contains functions to evaluate pre-trained graph embeddings ;
+
 ## Cite
 
 Please cite the associated papers for this work if you use this code:
