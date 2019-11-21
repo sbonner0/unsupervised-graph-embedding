@@ -18,11 +18,15 @@ Please cite the associated papers for this work if you use this code:
   organization={IEEE}
 }
 
-@article{bonner2018exploring,
+@article{bonner2019exploring,
   title={Exploring the Semantic Content of Unsupervised Graph Embeddings: An Empirical Study},
   author={Bonner, Stephen and Kureshi, Ibad and Brennan, John and Theodoropoulos, Georgios and McGough, Andrew Stephen and Obara, Boguslaw},
-  journal={arXiv preprint arXiv:1806.07464},
-  year={2018}
+  journal={Data Science and Engineering},
+  volume={4},
+  number={3},
+  pages={269--289},
+  year={2019},
+  publisher={Springer}
 }
 
 ```
